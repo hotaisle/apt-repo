@@ -1,0 +1,28 @@
+Origin: Hotaisle
+Label: Hotaisle
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64 armhf
+Components: main
+Description: Hotaisle APT Repository
+Date: Fri, 23 Jan 2026 22:01:34 +0000
+MD5Sum:
+8588238b8f0e80d48a1bfb8f4a70ef16   binary-arm64/Packages.gz
+d41d8cd98f00b204e9800998ecf8427e   binary-arm64/.ignore
+d41d8cd98f00b204e9800998ecf8427e   binary-arm64/Packages
+8588238b8f0e80d48a1bfb8f4a70ef16   binary-armhf/Packages.gz
+d41d8cd98f00b204e9800998ecf8427e   binary-armhf/.ignore
+d41d8cd98f00b204e9800998ecf8427e   binary-armhf/Packages
+8588238b8f0e80d48a1bfb8f4a70ef16   binary-amd64/Packages.gz
+d41d8cd98f00b204e9800998ecf8427e   binary-amd64/.ignore
+d41d8cd98f00b204e9800998ecf8427e   binary-amd64/Packages
+SHA256:
+5f024a6dfe90514bf8bdd2c72420dc28b6bc4d1a6d681d74fc567b36a60b0074   binary-arm64/Packages.gz
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-arm64/.ignore
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-arm64/Packages
+5f024a6dfe90514bf8bdd2c72420dc28b6bc4d1a6d681d74fc567b36a60b0074   binary-armhf/Packages.gz
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-armhf/.ignore
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-armhf/Packages
+5f024a6dfe90514bf8bdd2c72420dc28b6bc4d1a6d681d74fc567b36a60b0074   binary-amd64/Packages.gz
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-amd64/.ignore
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-amd64/Packages

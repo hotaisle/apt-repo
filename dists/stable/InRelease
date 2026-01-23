@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Hotaisle
+Label: Hotaisle
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64 armhf
+Components: main
+Description: Hotaisle APT Repository
+Date: Fri, 23 Jan 2026 22:01:34 +0000
+MD5Sum:
+8588238b8f0e80d48a1bfb8f4a70ef16   binary-arm64/Packages.gz
+d41d8cd98f00b204e9800998ecf8427e   binary-arm64/.ignore
+d41d8cd98f00b204e9800998ecf8427e   binary-arm64/Packages
+8588238b8f0e80d48a1bfb8f4a70ef16   binary-armhf/Packages.gz
+d41d8cd98f00b204e9800998ecf8427e   binary-armhf/.ignore
+d41d8cd98f00b204e9800998ecf8427e   binary-armhf/Packages
+8588238b8f0e80d48a1bfb8f4a70ef16   binary-amd64/Packages.gz
+d41d8cd98f00b204e9800998ecf8427e   binary-amd64/.ignore
+d41d8cd98f00b204e9800998ecf8427e   binary-amd64/Packages
+SHA256:
+5f024a6dfe90514bf8bdd2c72420dc28b6bc4d1a6d681d74fc567b36a60b0074   binary-arm64/Packages.gz
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-arm64/.ignore
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-arm64/Packages
+5f024a6dfe90514bf8bdd2c72420dc28b6bc4d1a6d681d74fc567b36a60b0074   binary-armhf/Packages.gz
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-armhf/.ignore
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-armhf/Packages
+5f024a6dfe90514bf8bdd2c72420dc28b6bc4d1a6d681d74fc567b36a60b0074   binary-amd64/Packages.gz
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-amd64/.ignore
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-amd64/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEbtohL7ohN1JdmEmKR++Ee/yXDCMFAmlz8AEACgkQR++Ee/yX
+DCMSrBAAjHPSF2endHxh/LEovfb9jqCcDoxbwtK6kQzgNmI/5i8DPXHBim/rNwf2
+NSh3vhcMh8/L5y0hSxCps/1stjjYzbiQIRPlsVtf3FVMWWGW1RJFGV28b7iDdN/t
+IqvDdP+RupAfyffDi6SR1vyrOV5UfHVkfPIGipISjOAfsOehWd/aleWnMQ5kWUzN
+PyikRbWI9oFJYBPwzYpbUVPByWIKC5ojkxdGVRGRY6se6bJlqighL5nGJphU0ZLb
+jAnGw8pH/AMqvprNrLOgQwh5bxYYGnMzzRxFbPGZhhrXEJjTt3YeKfTPuEe6ZQzC
+pgFcwy1V56U0ZcHit7UEDfNz1VrbOoWHZY1HBc9ETelvMEY1l3+a9hOK4F8i/Min
+jjcLvtvLIsDO8BHAnVF62XrlrmJ7673izm6WiIp640Fr/d+YImcDblurDiWu/WHo
+zU9AE9YnLvbAF7SPO83F1KsbRqlmr4u4mBYQBc9PqltTOOuxPq7USIPyEVmxCg1I
+Clix6UNBjisP2KVGFs/wh6kKX10ePlsmSShcAe8kO++IIHrR0Xw+5aaFV3i97AvN
+tT7sT3BExmAAN6xnwPRV1q9icJBAltJet36Hjv24n70Oh95wYXeI4ydq/zR1Cg1n
+UavCwdwfFg9aGqALCblJdyAXlt6sMlN+c4lmKnwmZ1dpa14KgSY=
+=Cai+
+-----END PGP SIGNATURE-----
