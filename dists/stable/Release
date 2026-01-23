@@ -5,24 +5,34 @@ Codename: stable
 Architectures: amd64 arm64 armhf
 Components: main
 Description: Hotaisle APT Repository
-Date: Fri, 23 Jan 2026 23:18:23 +0000
+Date: Fri, 23 Jan 2026 23:51:14 +0000
 MD5Sum:
-d41d8cd98f00b204e9800998ecf8427e   binary-armhf/.ignore
-d41d8cd98f00b204e9800998ecf8427e   binary-armhf/Packages
-fd37e04dea8175ffac9080c108e7502b   binary-armhf/Packages.gz
-d41d8cd98f00b204e9800998ecf8427e   binary-amd64/.ignore
-d41d8cd98f00b204e9800998ecf8427e   binary-amd64/Packages
-fd37e04dea8175ffac9080c108e7502b   binary-amd64/Packages.gz
-d41d8cd98f00b204e9800998ecf8427e   binary-arm64/.ignore
-d41d8cd98f00b204e9800998ecf8427e   binary-arm64/Packages
-fd37e04dea8175ffac9080c108e7502b   binary-arm64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/.ignore
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
+ dff00c798d34ea3499684fb9f192aa37 29 main/binary-armhf/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/.ignore
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ b6f9ec23cebd86a393d710262f53b7a6 29 main/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/.ignore
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ dff00c798d34ea3499684fb9f192aa37 29 main/binary-arm64/Packages.gz
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/.ignore
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
+ b88b1330c15d5bfe5b2848808e8708ede6393c46 29 main/binary-armhf/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/.ignore
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 18322998a9a15fb297dcd4981a3e9da8e8525f0e 29 main/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/.ignore
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ b88b1330c15d5bfe5b2848808e8708ede6393c46 29 main/binary-arm64/Packages.gz
 SHA256:
-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-armhf/.ignore
-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-armhf/Packages
-4f6627b01a6a05f2f9842ea7a1b449fc24c57b962e9506667019e610614345bd   binary-armhf/Packages.gz
-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-amd64/.ignore
-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-amd64/Packages
-4f6627b01a6a05f2f9842ea7a1b449fc24c57b962e9506667019e610614345bd   binary-amd64/Packages.gz
-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-arm64/.ignore
-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-arm64/Packages
-4f6627b01a6a05f2f9842ea7a1b449fc24c57b962e9506667019e610614345bd   binary-arm64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/.ignore
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
+ 315996c9bf968ed9acb091b7dcf42082e70b637a08a07892ce96d728ac7f5cf4 29 main/binary-armhf/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/.ignore
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ b7c60a058fcd36d10963b963171075b58c6028e05f5747be55a015018063aedc 29 main/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/.ignore
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 315996c9bf968ed9acb091b7dcf42082e70b637a08a07892ce96d728ac7f5cf4 29 main/binary-arm64/Packages.gz
