@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Hot Aisle APT Repository</title>
+    <meta name="description" content="Hot Aisle APT repository for Debian/Ubuntu packages." />
+    <style>
+      :root {
+        --bg: #0b0c10;
+        --panel: #12141b;
+        --text: #e9eef6;
+        --muted: #aab4c3;
+        --accent: #ff6a00;
+        --border: rgba(255, 255, 255, 0.08);
+      }
+      body {
+        margin: 0;
+        font: 16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial,
+          "Apple Color Emoji", "Segoe UI Emoji";
+        color: var(--text);
+        background: radial-gradient(1200px 600px at 20% -10%, rgba(255, 106, 0, 0.18), transparent 60%),
+          radial-gradient(900px 500px at 90% 10%, rgba(255, 255, 255, 0.06), transparent 55%),
+          var(--bg);
+      }
+      a { color: var(--text); text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      .wrap { max-width: 880px; margin: 0 auto; padding: 48px 20px; }
+      .card {
+        background: linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0.02));
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        padding: 28px;
+        box-shadow: 0 20px 60px rgba(0,0,0,0.35);
+      }
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 14px;
+        margin-bottom: 8px;
+      }
+      .dot {
+        width: 14px;
+        height: 14px;
+        border-radius: 50%;
+        background: var(--accent);
+        box-shadow: 0 0 0 6px rgba(255,106,0,0.12);
+      }
+      h1 { margin: 0; font-size: 28px; letter-spacing: 0.2px; }
+      p { margin: 10px 0 0; color: var(--muted); }
+      .grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 14px;
+        margin-top: 20px;
+      }
+      .box {
+        background: rgba(0,0,0,0.25);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 16px;
+      }
+      .box h2 { margin: 0 0 8px; font-size: 14px; text-transform: uppercase; letter-spacing: 0.12em; color: var(--muted); }
+      code, pre {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        font-size: 13px;
+      }
+      pre {
+        margin: 0;
+        padding: 14px;
+        border-radius: 10px;
+        background: rgba(255,255,255,0.04);
+        border: 1px solid var(--border);
+        overflow: auto;
+      }
+      .cta {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        margin-top: 18px;
+        padding: 10px 14px;
+        border-radius: 999px;
+        background: rgba(255,106,0,0.16);
+        border: 1px solid rgba(255,106,0,0.35);
+      }
+      .cta .pill {
+        display: inline-block;
+        padding: 2px 8px;
+        border-radius: 999px;
+        background: rgba(255,106,0,0.22);
+        border: 1px solid rgba(255,106,0,0.35);
+        font-size: 12px;
+        color: var(--text);
+      }
+      footer {
+        margin-top: 16px;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .small { color: var(--muted); font-size: 13px; margin-top: 8px; }
+      @media (min-width: 760px) {
+        .grid { grid-template-columns: 1fr 1fr; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="card">
+        <div class="brand">
+          <span class="dot" aria-hidden="true"></span>
+          <h1>Hot Aisle APT Repository</h1>
+        </div>
+        <p>
+          Debian/Ubuntu packages published by Hot Aisle.
+          For installation instructions and repository details, see the GitHub repo.
+        </p>
+
+        <a class="cta" href="https://github.com/hotaisle/apt-repo">
+          <span class="pill">GitHub</span>
+          <span>hotaisle/apt-repo</span>
+          <span aria-hidden="true">→</span>
+        </a>
+
+        <div class="grid" role="list">
+          <div class="box" role="listitem">
+            <h2>What is this?</h2>
+            <p>
+              An APT repository is a package feed your system can pull from using <code>apt</code>.
+              Hot Aisle uses it to publish and update packages for customers and the community.
+            </p>
+            <p class="small">
+              Questions or issues? Open one on GitHub.
+            </p>
+          </div>
+        </div>
+
+        <footer>
+          © Hot Aisle • Hosted on GitHub Pages
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
