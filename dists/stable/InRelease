@@ -1,5 +1,5 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 Origin: Hotaisle
 Label: Hotaisle
@@ -8,40 +8,40 @@ Codename: stable
 Architectures: amd64 arm64 armhf
 Components: main
 Description: Hotaisle APT Repository
-Date: Fri, 23 Jan 2026 22:01:34 +0000
+Date: Fri, 23 Jan 2026 23:18:23 +0000
 MD5Sum:
-8588238b8f0e80d48a1bfb8f4a70ef16   binary-arm64/Packages.gz
-d41d8cd98f00b204e9800998ecf8427e   binary-arm64/.ignore
-d41d8cd98f00b204e9800998ecf8427e   binary-arm64/Packages
-8588238b8f0e80d48a1bfb8f4a70ef16   binary-armhf/Packages.gz
 d41d8cd98f00b204e9800998ecf8427e   binary-armhf/.ignore
 d41d8cd98f00b204e9800998ecf8427e   binary-armhf/Packages
-8588238b8f0e80d48a1bfb8f4a70ef16   binary-amd64/Packages.gz
+fd37e04dea8175ffac9080c108e7502b   binary-armhf/Packages.gz
 d41d8cd98f00b204e9800998ecf8427e   binary-amd64/.ignore
 d41d8cd98f00b204e9800998ecf8427e   binary-amd64/Packages
+fd37e04dea8175ffac9080c108e7502b   binary-amd64/Packages.gz
+d41d8cd98f00b204e9800998ecf8427e   binary-arm64/.ignore
+d41d8cd98f00b204e9800998ecf8427e   binary-arm64/Packages
+fd37e04dea8175ffac9080c108e7502b   binary-arm64/Packages.gz
 SHA256:
-5f024a6dfe90514bf8bdd2c72420dc28b6bc4d1a6d681d74fc567b36a60b0074   binary-arm64/Packages.gz
-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-arm64/.ignore
-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-arm64/Packages
-5f024a6dfe90514bf8bdd2c72420dc28b6bc4d1a6d681d74fc567b36a60b0074   binary-armhf/Packages.gz
 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-armhf/.ignore
 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-armhf/Packages
-5f024a6dfe90514bf8bdd2c72420dc28b6bc4d1a6d681d74fc567b36a60b0074   binary-amd64/Packages.gz
+4f6627b01a6a05f2f9842ea7a1b449fc24c57b962e9506667019e610614345bd   binary-armhf/Packages.gz
 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-amd64/.ignore
 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-amd64/Packages
+4f6627b01a6a05f2f9842ea7a1b449fc24c57b962e9506667019e610614345bd   binary-amd64/Packages.gz
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-arm64/.ignore
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855   binary-arm64/Packages
+4f6627b01a6a05f2f9842ea7a1b449fc24c57b962e9506667019e610614345bd   binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEbtohL7ohN1JdmEmKR++Ee/yXDCMFAmlz8AEACgkQR++Ee/yX
-DCMSrBAAjHPSF2endHxh/LEovfb9jqCcDoxbwtK6kQzgNmI/5i8DPXHBim/rNwf2
-NSh3vhcMh8/L5y0hSxCps/1stjjYzbiQIRPlsVtf3FVMWWGW1RJFGV28b7iDdN/t
-IqvDdP+RupAfyffDi6SR1vyrOV5UfHVkfPIGipISjOAfsOehWd/aleWnMQ5kWUzN
-PyikRbWI9oFJYBPwzYpbUVPByWIKC5ojkxdGVRGRY6se6bJlqighL5nGJphU0ZLb
-jAnGw8pH/AMqvprNrLOgQwh5bxYYGnMzzRxFbPGZhhrXEJjTt3YeKfTPuEe6ZQzC
-pgFcwy1V56U0ZcHit7UEDfNz1VrbOoWHZY1HBc9ETelvMEY1l3+a9hOK4F8i/Min
-jjcLvtvLIsDO8BHAnVF62XrlrmJ7673izm6WiIp640Fr/d+YImcDblurDiWu/WHo
-zU9AE9YnLvbAF7SPO83F1KsbRqlmr4u4mBYQBc9PqltTOOuxPq7USIPyEVmxCg1I
-Clix6UNBjisP2KVGFs/wh6kKX10ePlsmSShcAe8kO++IIHrR0Xw+5aaFV3i97AvN
-tT7sT3BExmAAN6xnwPRV1q9icJBAltJet36Hjv24n70Oh95wYXeI4ydq/zR1Cg1n
-UavCwdwfFg9aGqALCblJdyAXlt6sMlN+c4lmKnwmZ1dpa14KgSY=
-=Cai+
+iQIzBAEBCgAdFiEEbtohL7ohN1JdmEmKR++Ee/yXDCMFAml0AcAACgkQR++Ee/yX
+DCPVPA//X9aBn4zoXdCAezd+OAx7C9p0gtlbMyErQfNqJi6LnsFwgi/2yqeTw/X0
+8cjcaxY4p6++ja5AYcOzCgnDeuDsn4/0tuQdjIl9LgncykA54fOI8xbFP3hl4TV9
+HiP/R+62WWn7aXJMQsCxf1izwI1HJGqB4lIDDzFdAYynbGQijdRhTP2O+mUCQLtF
+9KfwPSXplUqaBsSId/0glEZsz5nL0fqLcUAI3PV0aqoPJ8L8yuDqpXLt4J1twh/t
+f2Tno4fs/a5ahNU/fvYJUh6BMOryumRCGVuPXCkwKbfXSPIeKylkq3DD8p20cwsI
+GcnZ2xQpj+zz3g/zwQlTE6PWJJOeekh3aSFIYMqSGFwBSfLHFu7RkBJz0L5dY6cz
+nf86K31xjOEqgQQ9h3JK9QDMKHhha6hK0Yuxz9Utnv3M2TZW60C/AR6q/TmUTw8O
+UrRQjfelgIeqfZip8fhvozgBwty4MSgeuisj7U3IY/ca7L1uV6b+w+ouPjQhDf15
+idYTINXLWPpL0kUbG+g29+7KlFY93nL7wpjMWFvMSDnxrU0gWs2aQ5rF4JRij+hh
+TG7dySwpMU+UW34w/OOI0Uco/8Wq5qdonSxzmt9hQw4bEZ7M5WLglW4p9+//1YL7
+JwDKsBnjZF+0mNpKnF+KE8zhgzzgoTlYv1zG3qJkHhzSGQwchJU=
+=phJA
 -----END PGP SIGNATURE-----
