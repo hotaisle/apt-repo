@@ -1,0 +1,5 @@
+Archive: apt-repo
+Component: main
+Origin: apt-repo
+Label: apt-repo
+Architecture: armhf
