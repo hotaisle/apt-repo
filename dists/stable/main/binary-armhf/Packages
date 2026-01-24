@@ -1,5 +1,5 @@
 Package: hotaisle
-Version: 0.8.15
+Version: 0.8.16
 Architecture: armhf
 License: BSD-3-Clause
 Maintainer: Hot Aisle <hello@hotaisle.ai>
@@ -7,11 +7,11 @@ Installed-Size: 7872
 Homepage: https://github.com/hotaisle/hotaisle-cli
 Priority: optional
 Section: default
-Filename: pool/main/h/hotaisle/hotaisle_0.8.15_armhf.deb
-Size: 3283146
-SHA512: 1e223ff6493fd3b12289e4bbc72785a8ea7a2d8d1b15576735ef3c26090b146d57f4bf6fb4dbee83903813afb0e2e310df498d128124cf0c210f727d88799fd8
-SHA256: 105da463e24b411dffd10f53d1a5879f368b8a8fe58182a6907a9c237efe1f9d
-SHA1: c46a730b8d11c0a8deeb38ccf2dffb446ee57b00
-MD5sum: de5b9aae1ac4fbe765aa457fd7a8d0f2
+Filename: pool/main/h/hotaisle/hotaisle_0.8.16_armhf.deb
+Size: 3283156
+SHA512: 57f1e0fb3f5b934d89fc7c840445a7a6f07538b23059c4087b59cd626cc2f18705ae66145934215f83b252e1fcfee7fc05e107786b9acca5b7c39248d58d5e02
+SHA256: eac948682e815b2153b6657eb0137811e4d5b0210d31da1096ea67ac0831436b
+SHA1: 19672dd097b697022e8e80d079558f0884726404
+MD5sum: 7459371140892e918a0ca8ed58b430cc
 Description: Hot Aisle CLI
 
