@@ -1,4 +1,20 @@
 Package: hotaisle
+Version: 0.10.6
+Architecture: amd64
+Maintainer: Hot Aisle <hello@hotaisle.ai>
+Installed-Size: 8712
+Homepage: https://github.com/hotaisle/hotaisle-cli
+Priority: optional
+Section: default
+Filename: pool/main/h/hotaisle/hotaisle_0.10.6_amd64.deb
+Size: 3684486
+SHA512: c36c7c34b7ffb3a08c5075eee2e770200a0e5f3a785c536cefe1e0ff06325b67d444e35dd89730725c5845fdeb43914bc2cdeb67e096aa71b9e36b2c94d8c248
+SHA256: 8f3411abb8f98f43c540f02b836a17a9095bcde78f6659e9878958321de673d3
+SHA1: 886b9736bdfb80b30141bb1f9aa52bb87826416f
+MD5sum: 2cf5fc0c8dbb27f50b7e5d8ae878b292
+Description: Hot Aisle CLI
+
+Package: hotaisle
 Version: 0.10.5
 Architecture: amd64
 Maintainer: Hot Aisle <hello@hotaisle.ai>
