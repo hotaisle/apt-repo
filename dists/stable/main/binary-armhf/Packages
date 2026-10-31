@@ -1,4 +1,20 @@
 Package: hotaisle
+Version: 1.0.0
+Architecture: armhf
+Maintainer: Hot Aisle <hello@hotaisle.ai>
+Installed-Size: 8960
+Homepage: https://github.com/hotaisle/hotaisle-cli
+Priority: optional
+Section: default
+Filename: pool/main/h/hotaisle/hotaisle_1.0.0_armhf.deb
+Size: 3738116
+SHA512: 7c7f31f0ccc635f0c2e40c33a8e5127ce7bf916a126db927870e8d238d0af2dcc2000ab55c2950d9af5ac1a608b66e0d2a3e9d3be70a4d5cd9514112e5c415d2
+SHA256: fe14356b9bc7e344555ddaee5cd02877e0e633645cf1c8f33c323eb0772b3c0a
+SHA1: ea105d815b34188cd2825e0a7d6a5e31009c44ee
+MD5sum: f39a00f878f9a716749c0901d421c292
+Description: Hot Aisle CLI
+
+Package: hotaisle
 Version: 0.10.8
 Architecture: armhf
 Maintainer: Hot Aisle <hello@hotaisle.ai>
